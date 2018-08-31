@@ -1,0 +1,38 @@
+/* style sheet only for text and color */
+#head1
+{
+    text-align: center;
+    color: darkblue;
+}
+#head2
+{
+    text-align: center;
+}
+#head3
+{
+    text-align: center;
+}
+#p1
+{
+    text-align: center;
+    color: black;
+}
+#p2
+{
+    text-align: center;
+    color: black;
+}
+#area1
+{
+    text-align: center;
+}
+body
+{
+    background-image: url("Images/Img1.jpg");
+    background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: contain;
+}
+p
+{
+    color: white;
+}
