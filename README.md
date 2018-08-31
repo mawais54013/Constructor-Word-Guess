@@ -8,7 +8,7 @@ This program is a Dinosaur Themed Hangman game using Terminal and Node.js. Note 
 
 # Images
 The following is a pic of the program in action with the user guessing the letters and it displays them while also showing the remaining guesses.
-![Program](images/Screen1.png)
+![Program](Images/Screen1.png)
 
 # Technology Used
 - Javascript
