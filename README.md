@@ -2,13 +2,13 @@
 
 This program is a Dinosaur Themed Hangman game using Terminal and Node.js. Note that is program can only work on Terminal with Node installment and a few required npm packages.
 
-[Dino-Hang-Man]()
+[Dino-Hang-Man](https://mawais54013.github.io/Constructor-Word-Guess/)
 
 [Portfolio](https://mawais54013.github.io/Bootstrap-Portfolio/portfolio.html)
 
 # Images
 The following is a pic of the program in action with the user guessing the letters and it displays them while also showing the remaining guesses.
-![Program](images/Screen1.png)
+![Program](Images/Screen1.png)
 
 # Technology Used
 - Javascript
